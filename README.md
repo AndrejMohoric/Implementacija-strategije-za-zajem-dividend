@@ -3,8 +3,7 @@ Izvorna koda in testni podatki za vrednotenje strategije za zajem dividend
 
 ## a) Opis datotek
 
-1. *All simbols.txt*
-<br/>
+1. *All simbols.txt* <br/>
 Datoteka vsebuje seznam vseh simbolov Ameriških podjetij, ki smo jih upoštevali pri analizi.
 
 2. *All data for dividend capture strategy.txt*
