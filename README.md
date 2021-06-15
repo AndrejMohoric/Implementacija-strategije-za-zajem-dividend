@@ -3,10 +3,10 @@ Izvorna koda in testni podatki za vrednotenje strategije za zajem dividend
 
 ## a) Opis datotek
 
-1)All simbols.txt
+1. All simbols.txt
 Datoteka vsebuje seznam vseh simbolov Ameriških podjetij, ki smo jih upoštevali pri analizi.
 
-2)All data for dividend capture strategy.txt
+2. All data for dividend capture strategy.txt
 Datoteka vsebuje podatke vseh instanc izvedbe strategije za zajem dividend za podjetja, ki so v seznamu All simbols.txt od 2011-06-01 do 2020-12-10. Stolpce predstavljajo naslednji atributi:
 - simbol - simbol podjetja.
 - p_dec - Procent dobička, pri izvedbi strategije za zajem dividend, ob nakupu na datum izjave in prodaje na datum prejšnje dividende.
@@ -26,7 +26,7 @@ Datoteka vsebuje podatke vseh instanc izvedbe strategije za zajem dividend za po
 - proc_dec_buy - p_dec.
 - proc_bef_ex_buy - p_bef_ex.
  
-3)BTC.csv
+3. BTC.csv
 Pridobljeno iz: https://www.kaggle.com/mczielinski/bitcoin-historical-data
 Datoteka vsebuje podatke za Bitcoin od 17.09.2014 do 08.05.2021.
 Opis stolpcev:
@@ -38,7 +38,7 @@ Opis stolpcev:
 - 6)Adj close
 - 7)Volume
 
-4)SP500.csv
+4. SP500.csv
 Datoteka vsebuje podatke
 Pridobljeno iz https://www.kaggle.com/camnugent/sandp500
 Datoteka vsebuje podatke za S&P 500 od 31.12.2021 do 07.05.2021.
