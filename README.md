@@ -38,7 +38,7 @@ Opis stolpcev:
 - 6)Adj close
 - 7)Volume
 
-4. **SP500.csv* <br/>
+4. *SP500.csv* <br/>
 Datoteka vsebuje podatke
 Pridobljeno iz https://www.kaggle.com/camnugent/sandp500
 Datoteka vsebuje podatke za S&P 500 od 31.12.2021 do 07.05.2021.
