@@ -39,7 +39,6 @@ Opis stolpcev:
 - 7)Volume
 
 4. *SP500.csv* <br/>
-Datoteka vsebuje podatke
 Pridobljeno iz https://www.kaggle.com/camnugent/sandp500
 Datoteka vsebuje podatke za S&P 500 od 31.12.2021 do 07.05.2021.
 Opis stolpcev:
@@ -50,4 +49,12 @@ Opis stolpcev:
 - 5)Close
 - 6)Adj close
 - 7)Volume
+
+5. *StrategyRegularExampleStepByStep.html*
+Datoteka vsebuje step-by-step kako smo izvajali strategijo za zajem dividend.
+Prikazani so vsi rezultati pri pridobivanju podatkov iz  baze in prav tako vse akcije strategije za vsako leto posebaj. Vsebovan je tudi grafični prikaz 
+gibanja kapitala.
+Datoteko lokalno prenesite in jo odprite v html foramtu.
+
+
 
