@@ -50,15 +50,23 @@ Opis stolpcev:
 - 6)Adj close
 - 7)Volume
 
-5. *DividendStrategyRegularExample.txt* <br/>
-Podatki pridobljeni iz primera izvajanja strategije, ki je predstavljen v *StrategyRegularExampleStepByStep.html*
-Datoteka vsebuje podatke gibanja kapitala pri izvajanju strategije od 03.01.2012 do 01.01.2021.
+5. *GOOGL.txt* <br/>
+Podatki gibanja vrednosti delnice za podjetje Google, od  04.01.2010 do 17.05.2021, ki smo jih pridobili iz knjižnice Pandas Datareader.
 Opis stolpcev:
 - 1) Id vrstice
 - 2) Datum 
 - 3) Vrednost kapitala
 
-6. *StrategyRegularExampleStepByStep.html* <br/>
+
+6. *AMZN.txt* <br/>
+Podatki gibanja vrednosti delnice za podjetje Amazon, od 04.01.2010 do 17.05.2021, ki smo jih pridobili iz knjižnice Pandas Datareader.
+Opis stolpcev:
+- 1) Id vrstice
+- 2) Datum 
+- 3) Vrednost kapitala
+
+
+7. *StrategyRegularExampleStepByStep.html* <br/>
 Datoteka vsebuje step-by-step kako smo izvajali strategijo za zajem dividend.
 Prikazani so vsi rezultati pri pridobivanju podatkov iz  baze in prav tako vse akcije strategije za vsako leto posebaj. Vsebovan je tudi grafični prikaz 
 gibanja kapitala.
