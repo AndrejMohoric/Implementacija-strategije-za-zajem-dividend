@@ -50,7 +50,7 @@ Opis stolpcev:
 - 6)Adj close
 - 7)Volume
 
-5. *StrategyRegularExampleStepByStep.html*
+5. *StrategyRegularExampleStepByStep.html* <br/>
 Datoteka vsebuje step-by-step kako smo izvajali strategijo za zajem dividend.
 Prikazani so vsi rezultati pri pridobivanju podatkov iz  baze in prav tako vse akcije strategije za vsako leto posebaj. Vsebovan je tudi grafični prikaz 
 gibanja kapitala.
