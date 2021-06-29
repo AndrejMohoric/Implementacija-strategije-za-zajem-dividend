@@ -73,7 +73,7 @@ gibanja kapitala.
 Datoteko lokalno prenesite in jo odprite v html foramtu.
 
 8. *CompareDividendStrategyWithOthersAlternatives.html* <br/>
-https://andrejmohoric.github.io/CompareDividendStrategyWithOthersAlternatives/
+https://andrejmohoric.github.io/CompareDividendStrategyWithOthersAlternatives/ <br/>
 Datoteka vsebuje step-by-step kako smo primerjali strategijo za zajem dividend z drugimi finančnimi inštrumenti.
 Prikazani so vsi rezultati. 
 Datoteko lokalno prenesite in jo odprite v html foramtu.
